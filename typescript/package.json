@@ -1,0 +1,19 @@
+{
+  "name": "ostrid-sdk-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Musango",
+  "license": "ISC",
+  "dependencies": {
+    "@a2a-js/sdk": "^0.3.10",
+    "@mysten/sui.js": "^0.54.1",
+    "axios": "^1.13.4",
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "typescript": "^5.9.3"
+  }
+}
